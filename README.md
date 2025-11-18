@@ -3,10 +3,10 @@ This toolhead is yet another 4010 toolhead, heavily inspired by the [Dragonburne
 Thanks to Reddit user pd1zzle for suggesting the toolhead name, I really took a liking to it.
 
 <p float="left">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_render.png" width="300" height="400"> 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead.jpg" width="300" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Toolhead_Render.png" width="300" height="400"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Toolhead.jpg" width="300" height="400">
 </p>
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolchanger_setup.png" width="600" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/SC_example.png" width="600" height="400">
 
 ## But why?  
 I created this toolhead because I wasn’t quite happy with the current toolhead options for my Stealthchanger.
@@ -21,7 +21,7 @@ It also adopts the backflow inhibitor for decent part cooling performance.
 ## Anything else?  
 Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Toolhead_Explosion.png" width="600" height="400">
 
 ## What is planed?
 Currently, the only supported hotends are the Dropeffect Next G UHF and the Phaetus Dragon UHF, with extruders supporting the Orbiter or Sherpa Mini and Micro mounting patterns.
