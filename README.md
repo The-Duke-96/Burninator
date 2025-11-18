@@ -19,7 +19,7 @@ A monolithic cowl like the A4T cuts down the number of printed parts, screws, an
 It also adopts the backflow inhibitor for decent part cooling performance.
 
 ## Anything else?  
-Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H carriage for standalone, non-toolchanger printers.
+Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
