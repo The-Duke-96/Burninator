@@ -11,7 +11,7 @@
 
 - Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H carriage, two in the back of the EBB mount, one in the bottom of the dock, and two M5 inserts in the dock adapter.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert1.jpg" width="300" height="300"> 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert2.jpg" width="300" height="300">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/backplate_heatinsert.jpg" width="300" height="300">
@@ -32,7 +32,7 @@
 - Solder the third LED so that it faces the same direction as the first LED and opposite the second.
 - Solder the 17mm wire to the IN pads, facing the same direction as the first short wires, then crimp on the connector.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_led1.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_led2.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_led3.jpg" width="300" height="300">  
@@ -42,7 +42,7 @@
 - Insert the second LED into the LED carrier first, then the remaining two, it’s easier that way.
 - Insert the LED carrier from the back, placing the bottom edge into the cowl ledge. Tilt it, then press it firmly into place. Ensure the diffuser is seated in the front groove of the LED carrier.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/led_carrier.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_ledcarrier.jpg" width="300" height="300">   
 </p>
@@ -51,7 +51,7 @@
 - One of the fans needs its wires bent toward the back. You may also resolder the wires.
 - Slide the fans into the sides of the cowl, same as on the Dragonburner.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/gluein_backflow.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_fans.jpg" width="300" height="300">   
 </p>
@@ -66,7 +66,7 @@
 - Route cables into the grooves and secure them with zip-ties.
 - If using the StealthChanger backplate, install the OptoTap PCB.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_backscrews.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cable_ziptie.jpg" width="300" height="300">   
 </p>
@@ -86,7 +86,7 @@
 - Press the magnets into the top.
 - Mount the dock onto the crossbar, optionally using the adapter.
 
-<p float="left">
+<p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_blocker.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_wiper.jpg" width="300" height="300">   
 </p>
