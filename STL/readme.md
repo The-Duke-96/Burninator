@@ -11,7 +11,9 @@
 <p float="left">
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert1.jpg" width="300" height="300"> 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert2.jpg" width="300" height="300">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/backplate_heatinsert.jpg" width="300" height="300"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/backplate_heatinsert.jpg" width="300" height="300">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/EBB_mount_heatinsert.jpg" width="300" height="300"> 
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/adapter_heatinsert.jpg" width="300" height="300"> 
 </p>
 
 - Next, place the 2510 fan from behind, and slide it up and "wedge" in place, those two little nubs should sit in the bottom holes of the fan further secruing it in place. Just like the Dragonburner
