@@ -43,7 +43,7 @@
 - Insert the LED carrier from the back, placing the bottom edge into the cowl ledge. Tilt it, then press it firmly into place. Ensure the diffuser is seated in the front groove of the LED carrier.
 
 <p float="left">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_led2.jpg" width="300" height="300">   
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/led_carrier.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_ledcarrier.jpg" width="300" height="300">   
 </p>
 
@@ -52,7 +52,7 @@
 - Slide the fans into the sides of the cowl, same as on the Dragonburner.
 
 <p float="left">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/glue_baackflow.jpg" width="300" height="300">   
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/gluein_backflow.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_fans.jpg" width="300" height="300">   
 </p>
 
