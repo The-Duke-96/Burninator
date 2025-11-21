@@ -57,13 +57,13 @@
 </p>
 
 - Install the hotend. In my case, a Dropeffect NextG Fiber UHF is used. Ensure it's rotated correctly so the cables point toward the back corner.
-- Route the thermistor wire with the cable sleeve to the opposite side, as it won’t fit through the cowl and backplate cutouts. Route the heater wires on the other side, bending them so they will fit cleanly.
+- Route the thermistor wire with the cable sleeve to the opposite side, as it will not fit through the cowl and backplate cutouts. Route the heater wires on the other side, bending them so they will fit cleanly.
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_hotend.jpg" width="300" height="300">
 
 - Place the backplate, wiggle the cables into position, and ensure the metal hose sits inside the backplate groove underneath the center hole. Screw it down.
-- Install either M3x40 SHCS screws with a 3mm spacer, or M3x35 SHCS screws without the spacer and place a 6×3mm magnet on top.
-- Route cables into the grooves and secure them with zip ties.
+- Install either M3x40 SHCS screws with a 3 mm spacer, or M3x35 SHCS screws without the spacer and place a 6×3 mm magnet on top.
+- Route cables into the grooves and secure them with zip-ties.
 - If using the StealthChanger backplate, install the OptoTap PCB.
 
 <p float="left">
@@ -71,7 +71,7 @@
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cable_ziptie.jpg" width="300" height="300">   
 </p>
 
-- Install a 22mm PTFE tube and mount your extruder. In this example, the Galileo 2 WristWatch is used, followed by the toolhead PCB.
+- Install a 22 mm PTFE tube and mount your extruder. In this example, the Galileo 2 WristWatch is used, followed by the toolhead PCB.
 - In this setup, the EBB36_G2WW_Mount is required due to interference from the OptoTap.
 - The toolhead is now complete.
 
@@ -81,8 +81,8 @@
 
 ## Dock Assembly
 
-- Insert the 31mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
-- Take a 23mm PTFE tube for the wiper, bend it in the middle, wedge it into the back holder, then press down to straighten it out.
+- Insert the 31 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
+- Take a 23 mm PTFE tube for the wiper, bend it in the middle, wedge it into the back holder, then press down to straighten it out.
 - Press the magnets into the top.
 - Mount the dock onto the crossbar, optionally using the adapter.
 
