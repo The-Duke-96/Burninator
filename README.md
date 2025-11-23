@@ -25,7 +25,7 @@ Besides the toolhead, there’s also a small custom Stealthchanger dock with an 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
 ## What is planed?
-Adding support for the Voron V0.
+Adding support for the Voron V0.  
 Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
