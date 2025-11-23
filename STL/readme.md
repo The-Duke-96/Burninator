@@ -30,8 +30,9 @@
 - Solder the second LED, facing the opposite direction of the first.
 - Solder the last three short wires to the second LED, facing the same direction as the first set.
 - Solder the third LED so that it faces the same direction as the first LED and opposite the second.
-- Solder the 17mm wire to the IN pads, facing the same direction as the first short wires, then crimp on the connector.
-
+- Solder the 170mm wire to the IN pads and crimp on the connector.  
+  **Note:** Make sure the wires are soldered in the correct orientation as shown in the picture.
+  
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_led1.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_led2.jpg" width="300" height="300">   
@@ -79,7 +80,35 @@
 
 ---
 
-## Dock Assembly
+# Cowl SF Assembly
+
+- Assembling the SF cowl is only a little bit different from the UHF cowl.
+- For soldering the LEDs, you need wires in the following lengths: 3 × 47 mm, 3 × 30 mm, and 3 × 170 mm.
+- Start with the last LED and solder the 47 mm wires to the IN.
+- Now solder the second LED, and then the first LED, using the 30 mm wires.
+- Finally, solder the 170 mm wires and crimp on the connector.  
+  **Note:** Make sure the wires are soldered in the correct orientation as shown in the picture.
+- After that, place them into the LED carrier.
+
+<p>
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_SF_LED.jpg" width="300" height="300">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/LED__SF_carrier.jpg" width="300" height="300">
+</p>
+
+- Moving on to the cowl: first insert the top LED carrier. The cable should exit sideways into the cable channel.
+
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_SF_topLED.jpg" width="300" height="300">
+
+- Then tuck the cable into the corner and run it down along the wall. Push the larger LED carrier aside and insert the 2510 fan.
+- After that, push the larger LED carrier into place.  
+  **Note:** Due to the tight space, routing the cable and seating everything can be a bit tricky. The better the soldering job and the thinner the wires, the easier it gets.
+
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/SF_LED_FAN_insert.jpg" width="300" height="300">
+
+
+---
+
+# Dock Assembly
 
 - Insert the 31 mm spring steel blocker into the rear slit and secure it with an M3x5 screw.
 - Take a 23 mm PTFE tube for the wiper, bend it in the middle, wedge it into the back holder, then press down to straighten it out.
@@ -90,4 +119,7 @@
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_blocker.jpg" width="300" height="300">   
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/dock_wiper.jpg" width="300" height="300">   
 </p>
+
+
+
 
