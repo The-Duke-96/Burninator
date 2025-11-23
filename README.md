@@ -27,7 +27,7 @@ Besides the toolhead, there’s also a small custom Stealthchanger dock with an 
 ## What is planed?
 Currently, the only supported hotends are the Dropeffect Next G UHF and the Phaetus Dragon UHF, with extruders supporting the Orbiter or Sherpa Mini and Micro mounting patterns.
 I plan to add support for the also popular Phaetus Rapido hotend and an overhauled cowl for SF hotends, such as the Dropeffect Next G SF, Phaetus Dragon SF, as well as the E3D Revo.
-Of course, other than the .step CAD files are available for you to mod it to your needs.
+Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
 Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/STL/readme.md)
