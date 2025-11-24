@@ -95,7 +95,8 @@
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/LED__SF_carrier.jpg" width="300" height="300">
 </p>
 
-- Moving on to the cowl: first insert the top LED carrier. The cable should exit sideways into the cable channel.
+- Moving on to the cowl: first insert the LED diffuser and the top LED carrier. The cable should exit sideways into the cable channel.  
+**Note:** Inside the cable channel are two little support ribs, as printing support. Just cut them away, 
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_SF_topLED.jpg" width="300" height="300">
 
