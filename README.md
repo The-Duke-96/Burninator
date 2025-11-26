@@ -25,7 +25,8 @@ Besides the toolhead, there’s also a small custom Stealthchanger dock with an 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
 ## What is planed?
-For now, nothing, doing a break. You can do request and I can take a look at it and upload it in the future. 
+For now much, nothing, doing a break. Maybe a buffed arm, a dragon wing and consummate V's attached to a spacer you can put between extruder and cowl, just for fun.
+You can also do request and I can take a look at it and upload it in the future. 
 Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
