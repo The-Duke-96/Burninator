@@ -20,12 +20,12 @@ It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 Having a wall thickness of 1.2 mm makes the cowl more robust.
 
 ## Anything else?  
-Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
+Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
 ## What is planed?
-Adding support for the Voron V0.  
+For now, nothing, doing a break. You can do request and I can take a look at it and upload it in the future. 
 Of course, .step CAD files are available for you to mod it to your needs.
 
 ## How to Assemble?
