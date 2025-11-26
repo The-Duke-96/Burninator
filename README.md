@@ -16,8 +16,10 @@ I took features from the Dragonburner and the A4T and put them together, resulti
 ## What its features?
 It is small, smaller than the already compact Dragonburner, yet it can hold a UHF hotend, in this case the Dropeffect Next G Fiber with the UHF adapter, without missing out on nozzle and logo LEDs.
 A monolithic cowl like the A4T cuts down the number of printed parts, screws, and heat inserts, increases rigidity, and simplifies assembly and disassembly.
-It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
-Having a wall thickness of 1.2 mm makes the cowl more robust.
+Having a wall thickness of 1.2 mm makes the cowl more robust.  
+It also adopts the A4Ts backflow inhibitor for decent part cooling performance, but I think there is room for improvement.
+
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Airflow_Sim.png" width="600" height="400">
 
 ## Anything else?  
 Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
