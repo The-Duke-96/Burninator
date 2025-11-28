@@ -27,7 +27,7 @@ Besides the toolhead, there’s also a small custom Stealthchanger dock with an 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
 ## What is planed?
-For now much, nothing, doing a break. Maybe I’ll do a buffed arm, a dragon wing, and some consummate V’s as a little just-for-fun attachment.
+Currently I am working on a Burninator version 2, main focus is to further optimize using CFD airflow simulation.
 You can also do request and I can take a look at it and upload it in the future. 
 Of course, .step CAD files are available for you to mod it to your needs.
 
