@@ -1,4 +1,4 @@
-# Burninator 💪🐉🔥
+# Burninator v2 💪🐉🔥
 This toolhead is yet another 4010 toolhead, heavily inspired by the [Dragonburner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) and the [A4T](https://github.com/Armchair-Heavy-Industries/A4T/tree/main), all props to them.  
 Thanks to Reddit user pd1zzle for suggesting the toolhead name, I really took a liking to it.
 
@@ -17,9 +17,9 @@ I took features from the Dragonburner and the A4T and put them together, resulti
 It is small, smaller than the already compact Dragonburner, yet it can hold a UHF hotend, in this case the Dropeffect Next G Fiber with the UHF adapter, without missing out on nozzle and logo LEDs.
 A monolithic cowl like the A4T cuts down the number of printed parts, screws, and heat inserts, increases rigidity, and simplifies assembly and disassembly.
 Having a wall thickness of 1.2 mm makes the cowl more robust.  
-It also adopts the A4Ts backflow inhibitor for decent part cooling performance, but I think there is room for improvement.
+It also adopts the A4Ts backflow inhibitor for decent part cooling performance.
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Airflow_Sim.png" width="600" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
 
 ## Anything else?  
 Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
@@ -27,7 +27,7 @@ Besides the toolhead, there’s also a small custom Stealthchanger dock with an 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_explosion.png" width="600" height="400">
 
 ## What is planed?
-Currently I am working on a Burninator version 2, main focus is to further optimize using CFD airflow simulation.
+For now, not much, testing out some ideas. 
 You can also do request and I can take a look at it and upload it in the future. 
 Of course, .step CAD files are available for you to mod it to your needs.
 
