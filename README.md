@@ -20,7 +20,7 @@ Having a wall thickness of 1.2 mm makes the cowl more robust.
 It also adopts the A4Ts backflow inhibitor for decent part cooling performance.  
 **Note:**  
 The NextG Hotend should have the same dimensions as the Dragon and the TZ hotend.  
-The NextG UHF should have the same dimensions as the Dragon UHF.
+The NextG UHF should have the same dimensions as the Dragon UHF, Rapido HF should also fit. 
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
 
