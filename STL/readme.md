@@ -17,7 +17,7 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 
 # Assembly Manual
 
-- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H carriage, two in the back of the EBB mount, one in the bottom of the dock, and two M5 inserts in the dock adapter.
+- Start by installing the heat inserts: two in the bottom rear, two on top of the cowl, two at the top of either the StealthChanger backplate or the MGN12H / MGN7H carriage, two in the back of the EBB mount, one in the bottom of the dock, and two M5 inserts in the dock adapter.
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/cowl_heatinsert1.jpg" width="300" height="300"> 
