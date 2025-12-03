@@ -18,11 +18,12 @@ It is small, smaller than the already compact Dragonburner, yet it can hold a UH
 A monolithic cowl like the A4T cuts down the number of printed parts, screws, and heat inserts, increases rigidity, and simplifies assembly and disassembly.
 Having a wall thickness of 1.2 mm makes the cowl more robust.  
 It also adopts the A4Ts backflow inhibitor for decent part cooling performance.  
+
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
+
 **Note:**  
 The NextG Hotend should have the same dimensions as the Dragon and the TZ hotend.  
 The NextG UHF should have the same dimensions as the Dragon UHF, Rapido HF should also fit. 
-
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
 
 ## Anything else?  
 Besides the toolhead, there’s also a small custom Stealthchanger dock with an inbuilt PTFE wiper and spring-steel blocker, an adapter to use along other Draftshift docks, a Stealthchanger backplate, and an MGN12H (Voron-2) and MGN7H (Voron-0) carriage with x-endstop and klicky mount, for standalone, non-toolchanger printers.
