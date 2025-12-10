@@ -39,4 +39,5 @@ Of course, .step CAD files are available for you to mod it to your needs.
 Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/STL/readme.md)
 
 ## Disclaimer:
-It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
+- It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
+- Because the dock is quite small and space-saving, when using a door buffer for the StealthChanger, the DraftShift_dock_adapter needs to be used, otherwise the shuttle won’t reach the toolheads.
