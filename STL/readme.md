@@ -56,7 +56,7 @@ SF cowl on X0/Y0, cosmetic X0/Y-2.03
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_ledcarrier.jpg" width="300" height="300">   
 </p>
 
-- For the 4010 fans: remove the front cover and glue in A4T’s Backflow Inhibitor (optional but recommended).
+- For the 4010 fans: remove the front cover and glue in A4T’s Backflow Inhibitor (optional but recommended).  
   After the glue has dried, put the cover pack on.
 - One of the fans needs its wires bent toward the back. You may also resolder the wires.
 - Slide the fans into the sides of the cowl, same as on the Dragonburner.
