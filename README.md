@@ -15,7 +15,7 @@ Therefore, I decided to create my own toolhead to suit my use case and my printe
 I took features from the Dragonburner and the A4T and put them together, resulting in the Burninator.
 
 ## What its features?
-It is small, smaller than the already compact Dragonburner, yet it can hold a UHF hotend, in this case the Dropeffect Next G Fiber with the UHF adapter, without missing out on nozzle and logo LEDs.
+It is small, smaller than the already compact Dragonburner, yet it can hold a UHF hotend, in my case the Dropeffect Next G Fiber with the UHF adapter, without missing out on nozzle and logo LEDs.
 A monolithic cowl like the A4T cuts down the number of printed parts, screws, and heat inserts, increases rigidity, and simplifies assembly and disassembly.
 Having a wall thickness of 1.2 mm makes the cowl more robust.  
 It also adopts the A4Ts backflow inhibitor for decent part cooling performance.  
