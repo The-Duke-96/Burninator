@@ -37,8 +37,8 @@ Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are:
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/render/full_render.png" width="1200" height="800">
 
 ## What is planed?
-For now, not much.  
-You can also do request and I can take a look at it and upload it in the future.  
+As discussed on [reddit](https://www.reddit.com/r/VORONDesign/comments/1rx1uao/advice_needed_about_the_burninator_toolhead/), I am planning to rework my CAD files to keep the scope manageable and more efficient to work with, and to save me a ton of time.  
+This will take a while, since I have more important stuff in my life queued up that needs to be done first.  
 Of course, CAD files are available for you to modify to your needs, and if you want, you can contribute is as a [Usermod](https://github.com/The-Duke-96/Burninator/tree/main/Usermods)
 
 ## How to Assemble?
