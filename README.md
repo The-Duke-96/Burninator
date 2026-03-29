@@ -59,4 +59,8 @@ params_pickup_path: [{'y':0, 'z':-10}, {'y':0, 'z':0, 'f':0.5, 'verify':1}, {'y'
 ```
 
 ## Support:
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/maxmustermann)
+<a href="https://ko-fi.com/theduke96">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg"
+       alt="Support this project"
+       width="400" />
+</a>
