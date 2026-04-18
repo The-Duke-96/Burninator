@@ -2,7 +2,7 @@
 This toolhead is yet another 4010 toolhead, heavily inspired by the [Dragonburner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) and the [A4T](https://github.com/Armchair-Heavy-Industries/A4T/tree/main), all props to them.  
 Thanks to Reddit user pd1zzle for suggesting the toolhead name, I really took a liking to it.  
 Thanks to Reddit user linuxgangster for suggesting, testing, and providing feedback for the MadMax toolchanger adaptation.  
-And thanks to anyone, gave any suggestions, gave feedback, was sharing or contributing usermods.
+And thanks to anyone, who gave any suggestions, gave feedback, was sharing or contributing usermods.
  
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/toolhead_render.png" width="300" height="400"> 
