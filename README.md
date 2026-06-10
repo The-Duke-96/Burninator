@@ -1,4 +1,4 @@
-# Burninator v2.2 💪🐉🔥
+# Burninator v3.0 💪🐉🔥
 This toolhead is yet another 4010 toolhead, heavily inspired by the [Dragonburner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) and the [A4T](https://github.com/Armchair-Heavy-Industries/A4T/tree/main), all props to them.  
 Thanks to Reddit user pd1zzle for suggesting the toolhead name, I really took a liking to it.  
 Thanks to Reddit user linuxgangster for suggesting, testing, and providing feedback for the MadMax toolchanger adaptation.  
@@ -12,34 +12,46 @@ And thanks to anyone, who gave any suggestions, gave feedback, was sharing or co
 
 ## But why?  
 I created this toolhead because I wasn’t quite happy with the current toolhead options for my Stealthchanger.
-Therefore, I decided to create my own toolhead to suit my use case and my printer.
+After some testing, I decided to create my own toolhead to suit my use case and my printer.
 I took features from the Dragonburner and the A4T and put them together, resulting in the Burninator.
 
-## What its features?
-It is small, smaller than the already compact Dragonburner, yet it can hold a UHF hotend, in my case the Dropeffect Next G Fiber with the UHF adapter, without missing out on nozzle and logo LEDs.
-A monolithic cowl like the A4T cuts down the number of printed parts, screws, and heat inserts, increases rigidity, and simplifies assembly and disassembly.
-Having a wall thickness of 1.2 mm makes the cowl more robust.  
-It also adopts the A4Ts backflow inhibitor for decent part cooling performance.  
+## Features:
+- Very small and compact, yet fits UHF hotends
+- Monolithic cowl design
+- Easy assembly and disassembly
+- Stronger, 1.2 mm thick walls
+- CFM optimized cooling and A4T's backflow inhibitors
+- MGN12H, MGN9H, and MGN7H carriages compatible with up to 10 mm belts
+- MGN12H and MGN9H carriages also compatible with the [Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) mod
+- MGN12H also compatible with Tridex (6mm belts)
+- StealthChanger ready
+- MadMax ready
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/overview_horizontal.jpg" width="1050" height="580">
 
-## Hotend compatibility:
-- For the SF cowl, any Pheatus Dragon like hotends should fit i.e.: NextG, TZ.
-- For the UHF cowl, any Pheatus Dragon UHF like hotend should fit i.e.: NextG UHF, Rapido HF, Dragon ACE (with the spacer)
-- The CHC-XL got it own cowls 
-- Rapido UHF got it own cowls
+## Compatibility:
 
-## Anything else?  
-Besides the Rapido UHF, CHC-XL, UHF and SF toolheads, there are: 
-- MGN12H invertable (Voron-2 / Monolith Gantry mod), MGN9H (pandora's gantry mod) and MGN7H (Voron-0) carriage, with x-endstop and both, klicky or Beacon/Cartographer(+spacer) mount, for standalone, non-toolchanger printers 
-- StealthChanger toolchanger: backplate, ajustable docks with inbuild PTFE whiper and spring steel blocker, adapter for DraftShft docks
-- MadMax toolchanger: backplate, docks with inbuild spring steel blocker and optinal PTFE whiper, modified SF and UHF cowls to work with MadMax.
+**Hotends:** 
+- Any top-mounted, Phaetus-style hotend
+- SF: Dragon, NextG, TZ, etc.
+- UHF: Dragon UHF, NextG UHF, Rapido HF, Dragon ACE (with spacer)
+- Rapido UHF
+- CHC-XL (+MZE)
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/render/full_render.png" width="1200" height="800">
+**Extruders:**
+- Orbiter / Galileo 2
+- Sherpa Mini
+- Sherpa Micro
+- ECAS / Bowden
+- LGX & LGX Lite (using the `LGX_adapter`)
+- Or similar
 
-## What is planed?
-As discussed on [reddit](https://www.reddit.com/r/VORONDesign/comments/1rx1uao/advice_needed_about_the_burninator_toolhead/), I am planning to rework my CAD files to keep the scope manageable and more efficient to work with, and to save me a ton of time.  
-I am almost done and preparing for the release of Burninator v3.
+**Note:**
+- Using the custom parameters in Autodesk Fusion 360, you can adapt the design to almost any Phaetus-style, top-mounted hotend and extruder.
+
+## What is planned?
+Waiting for user feedback, opened issues, and suggestions or recommendations. I might also test out some ideas for potential future versions. Other than that, not much for now.  
 Of course, CAD files are available for you to modify to your needs, and if you want, you can contribute is as a [Usermod](https://github.com/The-Duke-96/Burninator/tree/main/Usermods)
 
 ## How to Assemble?
@@ -47,12 +59,11 @@ Here's the [BOM](https://github.com/The-Duke-96/Burninator/blob/main/BOM.md).
 Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator/blob/main/Assembly%20Manual.md).   
 
 ## Disclaimer:
-- It turns out that when using printed parts for the Z-joints, the toolhead might be so small that the carriage of the Z linear rail hits the bottom of the frame before the toolhead touches the print bed for probing or leveling, since I have used a CNC kit for those parts from the beginning, I didn’t notice or consider it, a simple workaround is to add taller spacers or washers beneath the print bed, or use a diffrent, shorter Z-joints.
-- Because the dock is quite small and space-saving, when using a door buffer for the StealthChanger, the DraftShift_dock_adapter needs to be used, otherwise the shuttle won’t reach the toolheads.
-- If you use Beacon/Cartographer on CHC-XL or Rapido-UHF cowl, you need to extend the spacers to the correct lenght.
-- StealthChanger and MadMax docks are designed for the SF and UHF cowls. I do not plan to adapt them for CHC XL or Rapido UHF, simply because a toolchanger already sacrifices print volume, and the smaller SF and UHF cowls are better suited for that use case. 
-- For many files I have not received any feedback and, or could not test them myself, so if something is not working or not fitting, please let me know.
-- Stock StealthChanger pickup and dropoff paths should work just fine, it might need some adjusment for the nozzle to scrub over the whiper.  If you like, you can use my custom paths:
+- **Z-Axis Clearance:** If you use printed Z-joints, the toolhead's compact size might cause the Z-rail carriage to hit the frame before the nozzle touches the bed. Workaround: Add taller spacers under the print bed or use shorter Z-joints.  
+- **StealthChanger Door Buffer:** If using a door buffer, the `DraftShift_dock_adapter` is required, otherwise the shuttle cannot reach the toolhead.  
+- **Sensor Mounts:** Ensure the `beacon/cartographer_spacer`, or `klicky_mount` is scaled in the Z-axis to fit your specific setup.  
+- **Macro Adjustments:** Stock StealthChanger pickup and dropoff paths work, but you might need slight adjustments for the nozzle to properly scrub the wiper.  
+- **Beta Files:** Some files are untested by me. If anything does not fit or work as expected, please open an issue or let me know.  If you like, you can use my custom paths:
 
 ```
 params_dropoff_path: [{'y': 25, 'z':3}, {'y': 5, 'z':3} , {'y':0, 'z':3, 'f':0.5}, {'y':0, 'z':0, 'f':0.5}, {'y':0, 'z':-10}]

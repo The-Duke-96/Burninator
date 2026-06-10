@@ -1,2 +1,0 @@
-# Cowl for CHC-XL + MZE
-This is a cowl that got extended for the CHC-XL with the melt zone extender.
