@@ -17,7 +17,7 @@
 #   Static body    → STATIC_BODIES   |  Parametric part → HOTEND_DEPENDENT_BODIES
 #   No changes to run() required.
 #
-# NOTE: 'hotend_lenght' is an intentional typo — it matches the parameter name
+# NOTE: parameter name in the design file — keep in sync if renamed in Fusion
 #       in the Fusion 360 design file. Do not correct it here.
 # ==============================================================================
 
@@ -30,7 +30,7 @@ import os
 # ==============================================================================
 
 # Root output directory. All subdirectories are created automatically.
-BASE_DIR = "D:/Desktop/Burninator_Export/v3"
+BASE_DIR = "D:/Desktop/Burninator_Export/v3.0"
 
 # Keys are used throughout the script to reference output paths.
 # Add new keys here if you add new output locations.
@@ -65,11 +65,11 @@ STATIC_BODIES = {
     "LEDs:1/diffuser:1/diffuser":                                       ("leds",              "diffuser.stl"),
 
     # Backplate hardware
-    "Backplate:1/MGNxH:1/MGN7H:1/belt_clamp:1/belt_clamp":             ("backplates_main",   "belt_clamp.stl"),
+    "Backplate:1/MGNxH:1/MGN7H:1/belt_clamp:1/belt_clamp":             ("backplates_main",   "MGN7H_belt_clamp_[2x].stl"),
     "Backplate:1/belt_clamp_plate:1/belt_clamp_plate":                  ("backplates_main",   "belt_clamp_plate.stl"),
     "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_clamp_plate":      ("backplates_main",   "tridex_clamp_plate.stl"),
     "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_opposite_plate":   ("backplates_main",   "tridex_opposite_plate.stl"),
-    "Backplate:1/beacon_cartographer_spacer:1/spacer":                  ("backplates_main",   "beacon_cartographer_spacer.stl"),
+    "Backplate:1/beacon_cartographer_spacer:1/spacer":                  ("backplates_main",   "beacon_cartographer_spacer_[x2].stl"),
     "Backplate:1/klicky_mount:1/klicky_mount":                          ("backplates_main",   "klicky_mount.stl"),
 
     # StealthChanger static parts
@@ -96,7 +96,7 @@ HOTEND_CONFIGS = [
     {"val": "78.1mm", "name": "CHC-XL+MZE"},   # CHC Pro XL with MZE extension
 ]
 
-# Bodies that change shape when hotend_lenght changes — exported once per hotend config.
+# Bodies that change shape when hotend_length changes — exported once per hotend config.
 # Filename pattern: "<prefix>_<version_suffix>.stl"
 HOTEND_DEPENDENT_BODIES = {
     "StealthChanger:1/SC_dock:1/SC_dock":            ("sc_dock",           "SC_dock"),
@@ -219,12 +219,12 @@ def run(context):
         export_mgr = design.exportManager
 
         # Fetch the three driving parameters and abort early if any are missing
-        param_hotend  = design.userParameters.itemByName('hotend_lenght')          # "lenght" typo matches the design file
+        param_hotend  = design.userParameters.itemByName('hotend_length')          # keep in sync with the parameter name in Fusion
         param_screw_r = design.userParameters.itemByName('extruder_screwholes_right')
         param_screw_l = design.userParameters.itemByName('extruder_screwholes_left')
 
         missing = [name for name, p in [
-            ('hotend_lenght',             param_hotend),
+            ('hotend_length',             param_hotend),
             ('extruder_screwholes_right', param_screw_r),
             ('extruder_screwholes_left',  param_screw_l),
         ] if p is None]
@@ -241,10 +241,14 @@ def run(context):
         # 1. Master CAD files — exported once from the root component
         # -----------------------------------------------------------------------
         export_mgr.execute(export_mgr.createSTEPExportOptions(
-            os.path.join(FOLDERS["cad"], "Burninator_v3.step"), root_comp))
+            os.path.join(FOLDERS["cad"], "Burninator_v3.0.step"), root_comp))
 
         export_mgr.execute(export_mgr.createFusionArchiveExportOptions(
-            os.path.join(FOLDERS["cad"], "Burninator_v3.f3d")))
+            os.path.join(FOLDERS["cad"], "Burninator_v3.0.f3d")))
+
+        # Copy this script into the CAD folder for version-matched archival
+        import shutil
+        shutil.copy(__file__, os.path.join(FOLDERS["cad"], "burninator_exportscript.py"))
 
         # -----------------------------------------------------------------------
         # 2. Static body exports — no parameter changes needed
@@ -332,4 +336,4 @@ def run(context):
             ui.messageBox(f"Script execution failed:\n{traceback.format_exc()}")
         return
 
-    ui.messageBox('Burninator_v3: Automated Matrix Export Completed Successfully!')
+    ui.messageBox('Burninator_v3.0: Automated Matrix Export Completed Successfully!')
