@@ -50,6 +50,7 @@ FOLDERS = {
     "stealthchanger_main":f"{BASE_DIR}/STL/StealthChanger",
     "sc_backplate":       f"{BASE_DIR}/STL/StealthChanger/Backplate",
     "sc_dock":            f"{BASE_DIR}/STL/StealthChanger/Dock",
+    "sc_shuttle":         f"{BASE_DIR}/STL/StealthChanger/Shuttle",
     "madmax_main":        f"{BASE_DIR}/STL/MadMax",
     "mm_backplate":       f"{BASE_DIR}/STL/MadMax/Backplate",
     "mm_dock":            f"{BASE_DIR}/STL/MadMax/Dock",
@@ -75,6 +76,9 @@ STATIC_BODIES = {
     # StealthChanger static parts
     "StealthChanger:1/SC_dock:1/SC_dock_back":                          ("stealthchanger_main","SC_dock_back.stl"),
     "StealthChanger:1/DS_adapter:1/DS_adapter":                         ("stealthchanger_main","SC_adapter.stl"),
+    "StealthChanger:1/SC_shuttle:1/SC_MGN12H_shuttle:1/SC_MGN12H_shuttle": ("sc_shuttle",      "SC_MGN12H_shuttle.stl"),
+    "StealthChanger:1/SC_shuttle:1/SC_MGN9H_shuttle:1/SC_MGN9H_shuttle":   ("sc_shuttle",      "SC_MGN9H_shuttle.stl"),
+    "StealthChanger:1/SC_shuttle:1/SC_MGN7H_shuttle:1/SC_MGN7H_shuttle":   ("sc_shuttle",      "SC_MGN7H_shuttle.stl"),
 
     # MadMax
     "MadMax:1/MM_ptfe:1/MM_ptfe":                                       ("madmax_main",       "MM_ptfe.stl"),
@@ -248,7 +252,7 @@ def run(context):
 
         # Copy this script into the CAD folder for version-matched archival
         import shutil
-        shutil.copy(__file__, os.path.join(FOLDERS["cad"], "burninator_exportscript.py"))
+        shutil.copy(__file__, os.path.join(FOLDERS["cad"], "burninator_v3.0_exportscript.py"))
 
         # -----------------------------------------------------------------------
         # 2. Static body exports — no parameter changes needed
