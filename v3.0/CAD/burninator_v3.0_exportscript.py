@@ -68,8 +68,11 @@ STATIC_BODIES = {
     # Backplate hardware
     "Backplate:1/MGNxH:1/MGN7H:1/belt_clamp:1/belt_clamp":             ("backplates_main",   "MGN7H_belt_clamp_[2x].stl"),
     "Backplate:1/belt_clamp_plate:1/belt_clamp_plate":                  ("backplates_main",   "belt_clamp_plate.stl"),
+    "Backplate:1/belt_clamp_plate:1/belt_clamp_plate_alt":              ("backplates_main",   "belt_clamp_plate_alt.stl"),
     "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_clamp_plate":      ("backplates_main",   "tridex_clamp_plate.stl"),
-    "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_opposite_plate":   ("backplates_main",   "tridex_opposite_plate.stl"),
+    "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_clamp_plate_opp":  ("backplates_main",   "tridex_clamp_plate_opp.stl"),  # trailing space in CAD path stripped, not part of the name
+    "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_clamp_plate_alt":  ("backplates_main",   "tridex_clamp_plate_alt.stl"),
+    "Backplate:1/belt_clamp_plate:1/Tridex:1/tridex_clamp_plate_opp_alt": ("backplates_main", "tridex_clamp_plate_opp_alt.stl"),
     "Backplate:1/beacon_cartographer_spacer:1/spacer":                  ("backplates_main",   "beacon_cartographer_spacer_[x2].stl"),
     "Backplate:1/klicky_mount:1/klicky_mount":                          ("backplates_main",   "klicky_mount.stl"),
 

@@ -66,8 +66,8 @@ Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator
 - **Beta Files:** Some files are untested by me. If anything does not fit or work as expected, please open an issue or let me know.  If you like, you can use my custom paths:
 
 ```
-params_dropoff_path: [{'y': 25, 'z':3}, {'y': 5, 'z':3} , {'y':0, 'z':3, 'f':0.5}, {'y':0, 'z':0, 'f':0.5}, {'y':0, 'z':-10}]
-params_pickup_path: [{'y':0, 'z':-10}, {'y':0, 'z':0, 'f':0.5, 'verify':1}, {'y':0, 'z':3, 'f':0.5}, {'y': 25, 'z':3}]
+params_dropoff_path: [{'y': 25, 'z':6.5}, {'y': 5, 'z':6.5} , {'y':0, 'z':6.5, 'f':0.5}, {'y':0, 'z':0, 'f':0.5}, {'y':0, 'z':-10}]
+params_pickup_path: [{'y':0, 'z':-10}, {'y':0, 'z':0, 'f':0.5, 'verify':1}, {'y':0, 'z':6.5, 'f':0.5}, {'y': 25, 'z':6.5}]
 ```
 
 ## Support:
