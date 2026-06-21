@@ -28,7 +28,7 @@ I took features from the Dragonburner and the A4T and put them together, resulti
 - MadMax ready
 
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/Burninator_v2_CFD-img.png" width="1200" height="400">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/overview_horizontal.jpg" width="1050" height="580">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/overview_horizontal.png" width="1050" height="580">
 
 ## Compatibility:
 
