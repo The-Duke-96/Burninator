@@ -94,3 +94,7 @@
 ## MM_ptfe
 - 1x    M3x6mm SHCS
 - 1x    4x25mm ptfe tube
+
+## EBB36_mount
+- 4x    M3x6-8mm BHCS
+- 2x    M3x21mm standoff 
