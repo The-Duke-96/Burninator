@@ -2,7 +2,7 @@
 
 - Use these files if you wish to modify something.  
 - Keep in mind that the fan duct must blow air to the correct area: the tip of the hotend nozzle should sit about 2 mm beneath the lowest part of the cowl.  
-- `backplate_base` and `MGNxH_carriage` are base bodies you can use to build upon.
+- `backplate_base`, `SC_shuttle_base` and `MGNxH_carriage` are base bodies you can use to build upon.
 - Extruder mounting holes and the ECAS adapter are present as a negative bodies that needs to be cut out.  
 - I made use of custom parameters you can use to adapt the toolhead to almost any hotend:  
   - `hotend_length`: Lengthens the cowl to your hotend size.
@@ -14,5 +14,5 @@
 
 **Note:** 
 The Python script was written with the help of AI. 
-I'm way too stupid to do it myself, so I claim absolutely no credit for it. 
+I'm way too stupid to do it myself, so I claim no credit for it. 
 All credit goes to those, which training data were used.
