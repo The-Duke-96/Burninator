@@ -15,7 +15,7 @@
 - Insert the 2510 fan from the back and slide it upward, wedging it into place. The two small nubs should fit into the bottom holes of the fan, securing it further. This works the same way as on the Dragonburner.
 - Insert the LED diffuser into the Voron logo cutout.
 
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert diffuser_fan.jpg" width="300" height="300">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/insert_diffuser_fan.jpg" width="300" height="300">
 
 - Continue with soldering the LEDs. You'll need six pieces of 20mm wire and three pieces of 170mm wire.
 - Solder the first three short wires to the OUT pads of the first LED.
@@ -86,7 +86,7 @@
 
 <p>
 <img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/solder_SF_LED.jpg" width="300" height="300">
-<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/LED__SF_carrier.jpg" width="300" height="300">
+<img src="https://github.com/The-Duke-96/Burninator/blob/main/Images/LED_SF_carrier.jpg" width="300" height="300">
 </p>
 
 - Moving on to the cowl: first insert the LED diffuser and the top LED carrier. The cable should exit sideways into the cable channel.  
