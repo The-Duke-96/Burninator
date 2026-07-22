@@ -4,7 +4,7 @@
 - 4x    M3x4mm heat inserts
 - 2x    M3x40mm SHCS magnetic 
 - 2x    M3x6mm BHCS
-- 1x    2510 fan
+- 1x    2510 fan (Delta ASB02505SHA-AY6B or similar high cfm fan recommendet)
 - 2x    4010 blower fans
 - 1x    LED_diffuser
 - 1x    LED_carriage
