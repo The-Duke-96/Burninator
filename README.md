@@ -62,7 +62,7 @@ Here's a handy-dandy [Assembly manual](https://github.com/The-Duke-96/Burninator
 - **Z-Axis Clearance:** If you use printed Z-joints, the toolhead's compact size might cause the Z-rail carriage to hit the frame before the nozzle touches the bed. Workaround: Add taller spacers under the print bed or use shorter Z-joints.  
 - **StealthChanger Door Buffer:** If using a door buffer, the `DraftShift_dock_adapter` is required, otherwise the shuttle cannot reach the toolhead.  
 - **Sensor Mounts:** Ensure the `beacon/cartographer_spacer`, or `klicky_mount` is scaled in the Z-axis to fit your specific setup.  
-- **Beta Files:** Some files are untested by me. If anything does not fit or work as expected, please open an issue or let me know.  If you like, you can use my custom paths:
+- **Beta Files:** Some files are untested by me. If anything does not fit or work as expected, please open an issue or let me know.
 - **Macro Adjustments:** Stock StealthChanger pickup and dropoff paths work, but you might need slight adjustments for the nozzle to properly scrub the wiper.  
 
 ```
