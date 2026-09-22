@@ -10,6 +10,7 @@
   - `DS_adapter_length`: Shortens or lengthens the adapter to fit your existing DraftShift docks.
   - `extruder_screwholes_left`: Adjusts the center distance for the left extruder mounting hole.
   - `extruder_screwholes_right`: Adjusts the center distance for the right extruder mounting hole.
+  - `heat_insert_diameter`: Adjusting the hole size for the M3 heated inserts.
 - I also provided a convenient Python export script that I use. It changes the parameters, makes the cuts, and exports all the files.  
 
 **Note:** 
