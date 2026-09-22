@@ -53,7 +53,6 @@ I took features from the Dragonburner and the A4T and put them together, resulti
 ## What is planned?
 Waiting for user feedback, opened issues, and suggestions or recommendations. I might also test out some ideas for potential future versions. Other than that, not much for now.  
 Of course, CAD files are available for you to modify to your needs, and if you want, you can contribute is as a [Usermod](https://github.com/The-Duke-96/Burninator/tree/main/Usermods)
-- looking into a user request, as soon as I  got more time on my hands.
 - looking into adding grove mount compatibility.
 
 ## How to Assemble?
