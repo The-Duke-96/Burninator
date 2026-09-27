@@ -7,5 +7,6 @@ As by userrequest, I have added it here as a usermod.
 
 **note:**
 - Put a M3 heat insert into the center hole.
-- A litte bit of support is needed. 
+- A litte bit of support is needed.
+- don't  forget the appropriate belt clampage parts 
 - Using the fly-aspl_adapter, will extend the toolhead into the back by 8mm! Connectors on the side should be still accessable.  
