@@ -22,7 +22,7 @@ I took features from the Dragonburner and the A4T and put them together, resulti
 - Stronger, 1.2 mm thick walls
 - CFM optimized cooling and A4T's backflow inhibitors
 - MGN12H, MGN9H, and MGN7H carriages compatible with up to 10 mm belts
-- MGN12H and MGN9H carriages also compatible with the [Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) mod
+- MGN12H and MGN9H carriages also compatible with the [Monolith_Gantry](https://github.com/Monolith3D/Monolith_Gantry) mod, as well as beacon,cartographer and klicky probe
 - MGN12H also compatible with Tridex (6mm belts)
 - StealthChanger ready
 - MadMax ready
